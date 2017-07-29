@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/public":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/var/www/public","hostpath":"C:/workspaces/horoscopes","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/workspaces/horoscopes/public","disabled":false,"__vagrantfile":true}}}
